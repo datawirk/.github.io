@@ -1962,9 +1962,10 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "About us.html",
               "size": 0,
-              "color": "#7ac673"
+              "color": "#7ac673",
+              "newWindow": false
             }
           },
           "title1": "Who Are We?",
@@ -1978,9 +1979,10 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "Services.html",
               "size": 0,
-              "color": "#27aae0"
+              "color": "#27aae0",
+              "newWindow": false
             }
           },
           "title2": "What We Do",
@@ -1989,12 +1991,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "pencil",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "Testimonial.html",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title3": "What People Say",
@@ -2008,9 +2012,10 @@
               "name": "touch",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "Contact Us.html",
               "size": 0,
-              "color": "#f97352"
+              "color": "#f97352",
+              "newWindow": false
             }
           },
           "title4": "Get In Touch",
