@@ -494,6 +494,9 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#features4-2t P {
+  text-align: left;
+}
 #ext_menu-10 .hide-buttons .nav-btn {
   display: none !important;
 }
