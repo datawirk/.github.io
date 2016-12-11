@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DataWirk",
-    "currentPage": "About us.html",
+    "currentPage": "Services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -574,7 +574,7 @@
           },
           "title2": "Data Cleaning",
           "subtitle2": "Ensure data is clean and up-to-date",
-          "caption2": "Upon analysis, your data is cleaned to find duplicates and remove, fix inaccuracies in your customer and prospect databases, add missing fields to records and keep things clean with regularly scheduled updates.",
+          "caption2": "Upon analysis, your data is cleaned to find and remove duplicates, fix inaccuracies in your customer and prospect databases, add missing fields to records and keep things clean with regularly scheduled updates.",
           "button2": "<a data-app-btn=\"true\" href=\"Data Cleaning.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
