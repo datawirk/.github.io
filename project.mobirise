@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DataWirk",
-    "currentPage": "Data Analysis and Diagnosis.html",
+    "currentPage": "Data Cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/i-logo.png",
     "noImageResize": "true",
     "versionFirst": "3.10.1",
-    "uniqCompNum": 119,
+    "uniqCompNum": 134,
     "versionPublish": "3.10.1"
   },
   "pages": {
@@ -1253,7 +1253,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-data-analysis-and-diagnostic-5.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1270,19 +1270,29 @@
           },
           "title": "Data Enhancing",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-2l",
           "_params": {
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-data-analysis-and-diagnostic-1.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1302,7 +1312,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1431605695381-f4a9c3cdd150.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1318,12 +1332,7 @@
           },
           "title": "INTRO WITH IMAGE",
           "text": "For a considerable time (8+ years) DATAWirk staff have collected and stored their contact data on CRM, ERP activities.  We have communicated with people and companies in the retail, services, manufacturing &amp; distribution industries.<br><br>Since the advent of mega-databases and “Big Data” DATAWirk has structured this information to meet the needs of our clients.  Where our clients “Ideal Customer Profile” required certain information, we have found ways to acquire the data they need to predict where their next sale will occur.<br><br> On the internet, data exists in vast quantities, most of the data is of little value, the majority of data is a waste of your company’s time.  There are however, small pearls of data that produce wisdom which are integral to the success of your “Ideal Customer Profile” algorithm.   DATAWirk scours the internet for those pearls of wisdom that separate you from your competitors.<br>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1953,7 +1962,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cool-music-equalizer-desktop-wallpaper-hd-1.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1968,7 +1977,7 @@
             "showText": false,
             "showButtons": false
           },
-          "title": "Data Analysis &amp; Diagnosis",
+          "title": "Data Analysis &amp; Diagnosis<br><br><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -2015,12 +2024,17 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-2k",
           "_params": {
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/67438701-data-wallpapers-2.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2040,7 +2054,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/1-data-analysis-and-diagnostic-11.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2056,12 +2074,7 @@
           },
           "title": "INTRO WITH IMAGE",
           "text": "Most companies have a primary product range that is the basis of their business and supports secondary products.  These primary products each have an “Ideal Customer Profile” that is true for both business to consumer (B2C) and business to business (B2B).  An Ideal Customer Profile considers the customers geographic, social, economic, time sensitivity along with many-many more activators which indicate the buying readiness of your customer or prospective customer.<br><br>Traditional sales forecasting systems would consider the purchasing history of a client for a minimum of 36 months, apply an algorithm to the data and forecast the likely hood of the next purchase.  These forecasting systems are notoriously inaccurate. <br> <br>Today we have moved to anticipating the next sale, instead of just looking in our rear-view mirror (traditional forecasting) we can look forward and backward and improve our forecasting accuracy.<br><br>With our client’s activity on the internet, social media, public profile, employee searches and enhancements from our master data base, we are able to predict with various degrees of certainty who your sales staff should call, when to call, what to say and how you can manage the relationship.<br>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -2211,40 +2224,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2a",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "Data Cleaning",
-          "text": "<br>DATAWirk can correct most data quality issues, from spelling errors to redundancies.  <br><br>DATAWirk is scalable, even with large datasets, your information can be analysed with the industries best response times. Our robust platform makes imperfect data usable.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -2332,19 +2311,54 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About us.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Testimonial.html\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us.html\">CONTACT US</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/big-data-analytics-hd-2.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "Data Cleaning",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#a0a0a0",
+              "text-align": "left"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-2z",
+          "_anchor": "msg-box2-3l",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -2363,11 +2377,44 @@
             "inverse": true,
             "showButtons": false,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "Our Workflow",
-          "text": "Cut down the development time with drag-and-drop website builder."
+          "text": "&nbsp;1) Identifying duplicates within and across multiple files with multiple simultaneous definitions of duplicates&nbsp;<div>&nbsp;2) Identifying typos in email addresses and offering automated corrections.</div><div>&nbsp;3) Complete counts of all text combinations within a data set</div><div>&nbsp;4) Merge / Purge capability based on user-defined survivorship rules.</div><div><br></div>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-data-cleaning-7-4949x3467-77.png",
+                "image": "@PROJECT_PATH@/assets/images/2-data-cleaning-7.png",
+                "caption": "Data Cleansing Workflow",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3p",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -2388,59 +2435,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Datawirk."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-33",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "INTRO WITH IMAGE",
-          "text": "&nbsp;1) Identifying duplicates within and across multiple files with multiple simultaneous definitions of duplicates (I.e. if phone number is the same &gt; Duplicate. If address is the same &gt; duplicate. Etc.)<br> \t<br>2) Email cleansing: Identifying typos in email addresses and offering automated corrections.<br> \t<br>3) Complete counts of all text combinations within a data set<br> \tMerge / Purge capability based on your survivorship (What records should survive / have precedence) rules.<br> \t<br>Our unique custom-built data cleansing tool and methodology, together with our extensive experience in data cleansing, ensures &nbsp;you that we are an ideal partner for data cleansing and data integration services.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
         }
       ]
     }
