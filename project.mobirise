@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DataWirk",
-    "currentPage": "Data Cleaning.html",
+    "currentPage": "Data Analysis and Diagnosis.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2054,7 +2054,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1-data-analysis-and-diagnostic-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-data-analysis-and-diagnostic-v2-min.png",
               "link": "",
               "alt": "",
               "title": "",
