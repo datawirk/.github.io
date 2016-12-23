@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DataWirk",
-    "currentPage": "Data Analysis and Diagnosis.html",
+    "currentPage": "Data Cleaning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2393,7 +2393,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-data-cleaning-min.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-data-analysis-and-diagnostic-14.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
