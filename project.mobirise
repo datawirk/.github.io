@@ -2393,7 +2393,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/data-cleaning.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/data-cleaning-1.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
