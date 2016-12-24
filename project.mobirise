@@ -2393,7 +2393,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-data-analysis-and-diagnostic-14.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/data-cleaning.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
